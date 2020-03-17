@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "megazone"
+  name             : "MegazoneCloud"
   avatar           : "/assets/images/mzc_logo.png"
   bio              : "메가존클라우드는 AWS 클라우드 MSP 전문기업으로 2012년부터 국내 최초 AWS 공식 파트너사로 선정되어 국내 클라우드 시장을 선도하고 있습니다."
   location         : "Seoul, Korea"
