@@ -1,0 +1,30 @@
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="icon" href="https://imgnew.megazone.com/2019/08/favicon-16.png" type="image/png" sizes="16x16" />
+<link rel="icon" href="https://imgnew.megazone.com/2019/08/favicon-32.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="https://imgnew.megazone.com/2019/08/favicon-60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://imgnew.megazone.com/2019/08/favicon-76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://imgnew.megazone.com/2019/08/favicon-120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://imgnew.megazone.com/2019/08/favicon-152.png">
+
+{% if page.use_math %}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+      inlineMath: [],
+      displayMath: [],
+      processEscapes: false,
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
+{% endif %}
+
+<!-- end custom head snippets -->
