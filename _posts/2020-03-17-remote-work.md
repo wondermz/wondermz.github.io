@@ -36,6 +36,8 @@ Amazon Web Service를 이용한 클라우드 원격 근무 체험
 
 # Amazon Chime
 
+![Amazon WorkSpaces](/assets/images/2020-03-17/amazon_chime.png)
+
 대부분의 기업에서 화상 회의와 미팅 솔루션은 다양한 종류의 플랫폼과 어플리케이션으로 보급되어 있습니다. 하드웨어 기반의 대표적인 솔루션은 Polycom, Cisco를 꼽을수 있고, 소프트웨어 기반은 Google의 Hangout, Microsoft의 Skype 등을 널리 사용하고 있습니다.
 
 저희 회사는 Amazon Web Service 프리미어 컨설팅 파트너로서 실제 업무에서도 Amazon의 협업 어플리케이션을 많이 사용하고 있는데, 특히 그 중에서 온라인 미팅 목적으로 사용하는 Amazon Chime은 다양한 기능으로 업무에 활용 할 수 있습니다.
@@ -65,6 +67,8 @@ Amazon Web Service를 이용한 클라우드 원격 근무 체험
 ![Chime을 이용한 단체 미팅](/assets/images/2020-03-17/image_05.png)
 
 # Amazon WorkSpaces
+
+![Amazon WorkSpaces](/assets/images/2020-03-17/amazon_workspace.png)
 
 ## Cloud VDI 업무 환경
 
