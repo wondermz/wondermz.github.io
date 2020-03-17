@@ -1,6 +1,9 @@
 ---
 title: "코로나19에 영향 받지 않는 재택 근무 인프라"
 date: 2020-03-17 11:26:28 +0900
+header:
+  image: /assets/images/2020-03-17/remote-work.jpg
+  og_image: /assets/images/2020-03-17/remote-work.jpg
 ---
 
 Amazon Web Service를 이용한 클라우드 원격 근무 체험
