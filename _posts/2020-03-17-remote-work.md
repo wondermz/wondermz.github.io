@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/2020-03-17/remote-work.jpg
 ---
 
-Amazon Web Service를 이용한 클라우드 원격 근무 체험
+Amazon Web Services 를 이용한 클라우드 원격 근무 체험
 
 # 들어가는 말
 
